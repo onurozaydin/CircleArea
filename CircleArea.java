@@ -19,7 +19,7 @@ public class CircleArea {
 		double env =  2 * pi * r;
 		double daireDilimi = (pi * (r * r) * a) / 360;
 		
-		 System.out.println("Dairenizin Alanı : " + area);
+	     System.out.println("Dairenizin Alanı : " + area);
 	     System.out.println("Dairenizin Çevresi : " + env);
 	     System.out.println("Dairenizin Dilimi Alanı : " + daireDilimi);
 		
